@@ -1,0 +1,45 @@
+/* CSS File */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5dc; /* Beige background for a farm-like feel */
+}
+
+header {
+    background-image: url('path-to-your-image.jpg'); /* Consider a nice image of Cheney's farmland */
+    background-size: cover;
+    height: 200px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+nav {
+    background-color: #808000; /* Olive color */
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+    color: #333;
+}
+
+footer {
+    background-color: #808000; /* Olive color */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
